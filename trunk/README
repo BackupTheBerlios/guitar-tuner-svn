@@ -1,0 +1,18 @@
+How To Install From "Zero Sources"
+====================================
+$ aclocal
+$ autoheader
+$ touch stamp-h
+$ autoconf
+$ automake -a -c
+
+
+How To Install
+============================
+$ ./configure
+
+Once you have done this check if the program compiles and can be run:
+
+$ make
+# make install
+

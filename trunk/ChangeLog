@@ -1,0 +1,15 @@
+# ChangeLog for Guitar Tuner
+
+03 Jul 2006:
+	Added -h, -v, -d <dev> command line options.
+	Guitar Tuner 0.1 Revision 2.
+
+02 Jul 2006:
+	Fixed Pixmaps Install Path. Added Directory guitar-tuner
+	possibile pixmaps directory /usr/share/pixmaps/guitar-tuner.
+	Guitar Tuner 0.1 Revision 1.
+
+01 Jul 2006:
+	Initial Import.
+	Guitar Tuner 0.1 Revision 0.
+
